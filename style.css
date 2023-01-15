@@ -388,9 +388,9 @@ border-radius: 8px;
             text-decoration: none;
         }
         
-        /*---------------
+        /*
  Quick list feature part style
- ---------------- */
+  */
 
 main{
     margin-left: 5px;
@@ -507,9 +507,9 @@ color: antiquewhite;
     font-size: 12px;
 }
 
-/* --------------
+/* 
 some facts part css
---------------- */
+*/
 
 
 .facts{height: 80px;
@@ -551,7 +551,7 @@ margin: 0px;
     border:#dcb90bef 3px solid;
 }
 
-/* special part from me  */
+/* extra Part */
 .special{
     align-items: left;
 }
@@ -567,9 +567,7 @@ font-size: 25px;
     width: 300px;
 }
 
-/* ------------------------------
-Quick list feature part html 
-----------*/
+/* Quick list feature   */
 .sponsor{
     padding-top: 50px;
     padding-bottom: 50px;
@@ -598,7 +596,7 @@ font-size: 25px;
 .sponsor1{
     width: 120px;
 }
-/* rights reserving section */
+/* rights reserving  */
 .right-container{
 padding-top: 50px;
     padding-bottom: 20px ;
